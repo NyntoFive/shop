@@ -1,0 +1,21 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+    "SECRET_KEY": {
+      "generator": "secret"
+    },
+    "DEBUG": "True"
+  },
+  "formation": {
+  },
+  "name": "shop",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
